@@ -1,0 +1,8 @@
+https://libanky.cilf.cz/ +*libanky.cilf.cz/* +*libankycilf.files.wordpress.com/* +*.fonts.googleapis.com/* +*.fonts.gstatic.com/* +*s0.wp.com/* +*s1.wp.com/* +*s2.wp.com/* +*s3.wp.com/* +*s4.wp.com/* +*i.ytimg.com/* +*0.gravatar.com/* +*2.gravatar.com/* +*widgets.wp.com/* -v -%! -A1000000
+File generated automatically on Tue, 02 Oct 2018 10:18:56, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
